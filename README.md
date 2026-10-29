@@ -1,13 +1,15 @@
 # Hi, I'm Pratham 👋
 
-I'm a technology professional with experience in infrastructure delivery, project and programme management, and enterprise technology environments. I enjoy building practical software projects that demonstrate product thinking, engineering discipline, testing, and clear documentation.
+I'm a Software Engineering (Honours) student at the University of Technology Sydney (UTS), with sub-majors in Data Analytics and Innovation & Entrepreneurship. I enjoy building and deploying practical applications, working with APIs and data, and improving my software development skills through hands-on projects.
+
+I also work as a Project Engineering Officer at Siemens Energy in Controls & Digitalisation, where I contribute to automation and information management projects. This industry experience gives me exposure to real-world engineering systems and operational processes alongside my software engineering studies.
 
 ## Featured projects
 
-### 1. [CivicFlow — Community Service Desk](https://github.com/khare-pratham/civicflow)
+### 1. [CivicFlow — Community Issue Reporting](https://github.com/khare-pratham/civicflow)
 [![CivicFlow CI](https://github.com/khare-pratham/civicflow/actions/workflows/tests.yml/badge.svg)](https://github.com/khare-pratham/civicflow/actions/workflows/tests.yml) [![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://civicflow-xi.vercel.app)
 
-A full-stack community issue reporting and resolution workflow. Residents can report local issues while service teams can search, filter, prioritise, and track cases through a defined workflow.
+A full-stack community issue reporting application. Users can report issues, search and filter reports, and track case statuses.
 
 - **Stack:** React, TypeScript, Tailwind CSS, DaisyUI, FastAPI, SQLAlchemy, PostgreSQL
 - **Engineering:** API tests, Playwright end-to-end browser tests, frontend production build in GitHub Actions
@@ -29,7 +31,7 @@ A responsive dashboard that explores public GitHub profile and repository data, 
 - **Stack:** HTML, CSS, JavaScript, GitHub REST API, Node.js tests, GitHub Actions
 - **Links:** [Live app](https://khare-pratham.github.io/devpulse/) · [Source code](https://github.com/khare-pratham/devpulse)
 
-### 4. [StudyPilot — Document-Grounded Study Assistant](https://github.com/khare-pratham/studypilot)
+### 4. [StudyPilot — Study Notes Search Tool](https://github.com/khare-pratham/studypilot)
 [![StudyPilot CI](https://github.com/khare-pratham/studypilot/actions/workflows/studypilot-tests.yml/badge.svg)](https://github.com/khare-pratham/studypilot/actions/workflows/studypilot-tests.yml) [![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://khare-pratham.github.io/studypilot/)
 
 A local-first study prototype that searches notes and imported text files, retrieves relevant passages, and shows their source titles. It reports when no matching evidence is found rather than inventing an answer.
@@ -37,13 +39,14 @@ A local-first study prototype that searches notes and imported text files, retri
 - **Stack:** HTML, CSS, JavaScript, Browser File API, Node.js tests, GitHub Actions
 - **Links:** [Live app](https://khare-pratham.github.io/studypilot/) · [Source code](https://github.com/khare-pratham/studypilot)
 
-## What I focus on
+## Technical interests
 
-- Technology project and programme delivery
-- Infrastructure, platforms, and service operations
-- Translating user needs into practical workflows
-- Reliable APIs, automated testing, and CI
-- Clear architecture, documentation, and responsible handling of data
+- Software development and full-stack applications
+- Python, Java, JavaScript and TypeScript
+- REST APIs and backend development
+- Data analytics and data visualisation
+- Automated testing, Git and continuous integration
+- Automation, digitalisation and practical problem-solving
 
 ## Explore
 
