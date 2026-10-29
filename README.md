@@ -14,7 +14,7 @@ A full-stack community issue reporting and resolution workflow. Residents can re
 - **Links:** [Live app](https://civicflow-xi.vercel.app) · [API health](https://civicflow-api-k362.onrender.com/health) · [API docs](https://civicflow-api-k362.onrender.com/docs)
 
 ### 2. [Ledgerly — Personal Finance Dashboard](https://github.com/khare-pratham/ledgerly)
-[![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://khare-pratham.github.io/ledgerly/)
+[![Ledgerly CI](https://github.com/khare-pratham/ledgerly/actions/workflows/ledgerly-tests.yml/badge.svg)](https://github.com/khare-pratham/ledgerly/actions/workflows/ledgerly-tests.yml) [![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://khare-pratham.github.io/ledgerly/)
 
 A local-first finance tracker for recording income and expenses, reviewing summaries, filtering transactions, and exporting CSV data. Includes input validation and safeguards for spreadsheet formula-like text.
 
@@ -22,7 +22,7 @@ A local-first finance tracker for recording income and expenses, reviewing summa
 - **Links:** [Live app](https://khare-pratham.github.io/ledgerly/) · [Source code](https://github.com/khare-pratham/ledgerly)
 
 ### 3. [DevPulse — GitHub Analytics Dashboard](https://github.com/khare-pratham/devpulse)
-[![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://khare-pratham.github.io/devpulse/)
+[![DevPulse CI](https://github.com/khare-pratham/devpulse/actions/workflows/devpulse-tests.yml/badge.svg)](https://github.com/khare-pratham/devpulse/actions/workflows/devpulse-tests.yml) [![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://khare-pratham.github.io/devpulse/)
 
 A responsive dashboard that explores public GitHub profile and repository data, showing profile metrics, repository statistics, language estimates, and top repositories.
 
@@ -30,7 +30,7 @@ A responsive dashboard that explores public GitHub profile and repository data, 
 - **Links:** [Live app](https://khare-pratham.github.io/devpulse/) · [Source code](https://github.com/khare-pratham/devpulse)
 
 ### 4. [StudyPilot — Document-Grounded Study Assistant](https://github.com/khare-pratham/studypilot)
-[![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://khare-pratham.github.io/studypilot/)
+[![StudyPilot CI](https://github.com/khare-pratham/studypilot/actions/workflows/studypilot-tests.yml/badge.svg)](https://github.com/khare-pratham/studypilot/actions/workflows/studypilot-tests.yml) [![Live demo](https://img.shields.io/badge/demo-live-147d6f)](https://khare-pratham.github.io/studypilot/)
 
 A local-first study prototype that searches notes and imported text files, retrieves relevant passages, and shows their source titles. It reports when no matching evidence is found rather than inventing an answer.
 
